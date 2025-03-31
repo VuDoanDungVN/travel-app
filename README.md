@@ -1,6 +1,6 @@
 # Travel App - Your Next Adventure Starts Here! 🌍✈️
 
-![Thumbnail của Travel App](assets/images/thumnail.png)
+![Thumbnail của Travel App](assets/images/thumnail.jpg)
 
 [![GitHub Stars](https://img.shields.io/github/stars/VuDoanDungVN/travel-app?style=social)](https://github.com/VuDoanDungVN/travel-app)
 [![GitHub Forks](https://img.shields.io/github/forks/VuDoanDungVN/travel-app?style=social)](https://github.com/VuDoanDungVN/travel-app)
